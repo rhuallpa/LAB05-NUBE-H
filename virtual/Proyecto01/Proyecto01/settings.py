@@ -30,8 +30,7 @@ DEBUG = True
 # Por ejemplo, si deseas ejecutarla en el puerto 9000:
 PORT = 9000
 
-
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['18.191.191.233', '*']
 
 # Application definition
 
