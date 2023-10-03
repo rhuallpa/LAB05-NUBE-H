@@ -25,6 +25,12 @@ SECRET_KEY = 'django-insecure-3*1^+kvgner578vta8y7(iyep5pmm34-$+udxr=h13%wzdv@-k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
+# Puerto en el que se ejecutará la aplicación en modo de desarrollo
+# Por ejemplo, si deseas ejecutarla en el puerto 9000:
+PORT = 9000
+
+
 ALLOWED_HOSTS = []
 
 # Application definition
